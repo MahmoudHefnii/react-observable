@@ -1,0 +1,195 @@
+[
+    {
+        "id": "5d63ead77450e87cb45b7f1b",
+        "name": "Saudi 2 HD",
+        "logoPath": "/da521e29-6f59-4a85-a3ba-546ae21529aa.png",
+        "coverPath": "/7b747d00-2b31-45f7-a806-c7c6886f92ee.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "hqDoSDRu6StT6EiWd",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "http://awscdn.tooliserver.com/arabsat/Saudi_2_HD/Saudi_2_HD.m3u8"
+            }
+        ],
+        "genres": [
+            "5d6bd6e963054f624881575c",
+            "5d6424cbc54eba156d087bac"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6417687450e87cb45b7f31",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66692d51569e7adf6b4928",
+        "name": "MBC 1 HD",
+        "logoPath": "/119365be-1b2f-4668-bde4-7aacaa0765f1.png",
+        "coverPath": "/dd6ed249-c84a-4d66-8c78-fc9c143d7413.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "ysZCc3kfiaLFX5GuX",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "https://or.tooliserver.com/live/MBC1_HD/MBC1_HD.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66692e51569e7adf6b4929",
+        "name": "MBC 2 HD",
+        "logoPath": "/fcdb70ae-71c0-43c7-90a0-52e0e42617ec.png",
+        "coverPath": "/4b468fa0-6206-4e6c-b254-92843fbd8a9e.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "4Cah5ozAknx7Q7DCh",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "http://awscdn.tooliserver.com/OS/6424_.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66692f51569e7adf6b492a",
+        "name": "MBC 3 HD",
+        "logoPath": "/a4ad3ce2-2f9f-4a99-991a-4e5c64f099ee.png",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "F2WTN89PfAyzKxRb8",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "http://awscdn.tooliserver.com/OS/6425_.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66692f51569e7adf6b492b",
+        "name": "MBC 4 HD",
+        "logoPath": "/9ef1bd13-c2f2-404f-a6e8-eecd89b40c3f.png",
+        "coverPath": "/0ce96181-177c-4525-991e-fe37601d7e0b.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "5viQMJn5QMQRFpacE",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "http://awscdn.tooliserver.com/OS/6426_.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66693051569e7adf6b492c",
+        "name": "MBC Max HD",
+        "logoPath": "/6a043c7e-6101-40dc-bc20-576f85e1ddfb.png",
+        "coverPath": "/7f49adee-f969-4051-9eb8-55270cb50dd3.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "fYbz6jss48PaJsStv",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "https://or149.tooliserver.com/live/149015_.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66693151569e7adf6b492d",
+        "name": "MBC Action HD",
+        "logoPath": "/d6341de9-10cf-445b-b5ed-c34ebe51c04f.png",
+        "coverPath": "/b7c7aaa8-398c-4a81-9fcb-7a43fb364704.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "fcxjhqWSnAKRLS2t5",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "https://or149.tooliserver.com/live/149013_.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    },
+    {
+        "id": "5d66693251569e7adf6b492e",
+        "name": "MBC Bollywood HD",
+        "logoPath": "/5c72db51-3ffe-4d6f-9939-3dfd761ce9c8.png",
+        "coverPath": "/c617262e-8460-4af1-9fca-c087461fa2e4.jpg",
+        "supportsChat": true,
+        "supportsEPG": false,
+        "supportsPlayback": false,
+        "chatRoomId": "ybfv5DNyW25FPKMzZ",
+        "urls": [
+            {
+                "protocol": "MPEG-DASH",
+                "encoding": "H264",
+                "urls": "https://or149.tooliserver.com/live/149014_.m3u8"
+            }
+        ],
+        "genres": [
+            "5d68f194dc16e36003a9f55b"
+        ],
+        "bouquets": [
+            "5d641aeb58ddc813b58aafe3",
+            "5d6bfe0ec6e842038aa9dca7"
+        ]
+    }
+]
